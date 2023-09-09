@@ -1606,3 +1606,7 @@ section {
 #footer .footer-links a:hover {
   color: #3498db;
 }
+
+.privacy-policy-modal-body, .terms-of-use-modal-body{
+  font-size: 12px;
+}
