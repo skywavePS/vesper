@@ -1,0 +1,23 @@
+{
+  "name": "vesperr",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this template!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -o index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TerbiumPS/vesper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TerbiumPS/vesper/issues"
+  },
+  "homepage": "https://github.com/TerbiumPS/vesper#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
